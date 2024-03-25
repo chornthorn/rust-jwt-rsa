@@ -1,0 +1,6 @@
+/target
+
+# ignore .DS_Store files everywhere
+**/.DS_Store
+/.env
+/assets
